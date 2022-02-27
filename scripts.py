@@ -26,13 +26,13 @@ class Scripted(object):
     ABOUT_TEXT = """
 ╭────[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
 │
-├<b>🤖 Bot Name : <a href='https://t.me/Renamer_teleroid_bot'>Rename X2 Bot</a></b>
+├<b>🤖 Bot Name : <a href='https://t.me/beastautofilterbot'>Beast Renamer</a></b>
 │
-├<b>📢 Channel : <a href='https://t.me/TeleRoidGroup'>TÉLÉRØÎD</a></b>
+├<b>📢 Channel : <a href='https://t.me/ss_linkz'>SS Linkz</a></b>
 │
-├<b>👥 Version : <a href='https://t.me/TeleRoid_Renamer_bot'>0.9.2 beta</a></b>
+├<b>👥 Version : <a href='https://t.me/beastautofilterbot'>0.9.2 beta</a></b>
 │
-├<b>💢 Source : <a href='https://youtu.be/2FHgg8o1YY8'>Click Here</a></b>
+├<b>💢 Source : It's Closed Project ❗
 │
 ├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
 │
@@ -40,9 +40,9 @@ class Scripted(object):
 │
 ├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/PredatorHackerZ'>@Pred∆tor</a></b>
+├<b>👨‍💻 Developer : <a href='https://t.me/sarathi_admin'>@sarathi_admin</a></b>
 │
-├<b>🚸 Powered By : <a href='https://t.me/Moviesflixers_DL'>@HindiWebNetwork</a></b>
+├<b>🚸 Powered By : <a href='https://t.me/NetflixMovies_sslinkz'>Netflix Movies</a></b>
 │
 ╰──────[Thanks 😊]───⍟"""
 
